@@ -1,5 +1,5 @@
 # sales-insights
-![Image Description](https://github.com/chaymamchirgui/sales-insights/blob/main/Capture%20d'%C3%A9cran%202023-12-15%20135332.png?raw=true)
+[![Capture-d-cran-2023-12-15-135332.png](https://i.postimg.cc/0N7QRkM0/Capture-d-cran-2023-12-15-135332.png)](https://postimg.cc/cK4ZfNcv)
 
 
 
